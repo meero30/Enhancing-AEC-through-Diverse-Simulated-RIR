@@ -121,9 +121,3 @@ This project builds upon research from ICASSP 2023 Acoustic Echo Cancellation Ch
 - Access to Microsoft AEC Dataset
 - Sufficient storage for generated synthetic data
 
-### Usage
-1. Configure room parameter ranges in `parameter_sampling.m`
-2. Run `rir_generation.m` to generate synthetic RIRs
-3. Execute signal mixing and combination processes
-4. Analyze results using provided visualization tools
-
